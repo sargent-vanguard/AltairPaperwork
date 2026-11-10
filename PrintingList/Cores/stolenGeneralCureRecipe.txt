@@ -1,0 +1,22 @@
+[color=Purple][head=1]How to Make Your Own GC[/head][/color]
+[bolditalic]By Noelle Dollfuss[/bolditalic]
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Requirements
+-1× Pressurized Canister
+-Access to a Pressurized Chemical Dispenser
+-Access to the [bold][color=#8B0000]Meralyne[/color][/bold] and [bold][color=#FFD580]Dermaline[/color][/bold] tanks in Medbay Reception
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Instructions
+1. Obtain a Pressurized Canister.
+2. Insert it into the Pressurized Chemical Dispenser.
+3. Add 95u each of the following: [bold][color=#FF0000]Bicaridine[/color][/bold], [bold][color=#FFFF00]Kelotane[/color][/bold], and [bold][color=#FFA500]Tricordrazine[/color][/bold].
+4. Add 5u of [bold][color=#89CFF0]Dexalin Plus[/color][/bold].
+5. Eject the canister and take it to Medbay Reception.
+6. Set Transfer Amount to 95u.
+7. Draw 95u from the [bold][color=#8B0000]Meralyne[/color][/bold] tank and draw 95u from the [bold][color=#FFD580]Dermaline[/color][/bold] tank.
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Your canister should now contain 480u of GC.
+
+Insert the canister into a Pressurized Reagent Canister Pouch.
+
+Done! Your GC Pressurized Reagent Canister Pouch is ready for use.

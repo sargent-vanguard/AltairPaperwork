@@ -1,0 +1,114 @@
+
+[head=1]  The Jemison Solution Part 2 -- 13/08/2126[/head]
+
+[color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                          [head=2]HOW TO MAKE PILLS[/head]
+
+[head=3][color=#ff0000]At the start of the shift, make sure to fill up the ChemMaster with empty pill bottles to speed up pill production later.[/color][/head]
+
+[color=#d02424][head=3]Merabic Pill Bottles[/head][/color]
+[bold]Procedure to make 8:[/bold]
+[bold]1.[/bold] Dispense 80u water and 80u carbon into a reagent jug, then fill the rest of the jug with bicaridine from the We-Ya-Chem Plus.
+[bold]2.[/bold] Put the jug inside the ChemMaster and click "All reagents" to transfer the contents into the buffer.
+[bold]3.[/bold] Switch the buffer transfer setting from "To Beaker" to "To Disposal", and delete 20u bicaridine by clicking the "10" next to bicaridine twice (the buffer should now have 240u meralyne and 240u bicaridine).
+[bold]4.[/bold] Check the box next to all 8 empty pill bottles.
+[bold]5.[/bold] Set the name to "MB | OD 2", bottle color to red, pill color to red, count to 4, then click the "Create Pills" button.
+[bold]6.[/bold] Repeat step 5 three more times in order to create 8 bottles of 16 pills. Dosage on each pill should be 7.5u bicaridine, 7.5u meralyne.
+[bold]7.[/bold] Click "Transfer" on all MB pill bottles to transfer them into the smart fridge.
+
+[color=#ecbc28][head=3]Keloderm Pill Bottles[/head][/color]
+[bold]Procedure to make 8:[/bold]
+[bold]1.[/bold] Dispense 80u oxygen and 80u phosphorus into a reagent jug, then fill the rest of the jug with kelotane from the We-Ya-Chem Plus.
+[bold]2.[/bold] Put the jug inside the ChemMaster and click "All reagents" to transfer the contents into the buffer.
+[bold]3.[/bold] Switch the buffer transfer setting from "To Beaker" to "To Disposal", and delete 20u kelotane by clicking the "10" next to kelotane twice (the buffer should now have 240u dermaline and 240u kelotane).
+[bold]4.[/bold] Check the box next to all 8 empty pill bottles.
+[bold]5.[/bold] Set the name to "KD | OD 2", bottle color to yellow, pill color to yellow, count to 4, then click the "Create Pills" button.
+[bold]6.[/bold] Repeat step 5 three more times in order to create 8 bottles of 16 pills. Dosage on each pill should be 7.5u kelotane, 7.5u dermaline.
+[bold]7.[/bold] Click "Transfer" on all KD pill bottles to transfer them into the smart fridge.
+
+[color=#7c5f69][head=3]FNI+ Pill Bottles[/head][/color]
+[bold]Preparation[/bold]
+[bold]1.[/bold] Unwrench a food vendor from the medical conference room and drag it outside chemistry. Unwrench and drag an All-In-One Grinder next to the food vendor, insert a reagent jug into the grinder, and set the auto-mode to grind.
+[bold]2.[/bold] Dispense protein bars and prepared meals from the food vendor, and grind it into nutriment.
+[bold]3.[/bold] In a reagent jug, dispense 40u dexalin from the We-Ya-Chem Plus, then 40u carbon and 40u iron to make 120u of dexalin plus.
+[bold]4.[/bold] In the same reagent jug, dispense 60u dylovene from the We-Ya-Chem Plus, then 60u carbon and 60u hydrogen to make 120u of imidazoline.
+[bold]5.[/bold] Set that jug's transfer amount to 16u. This is how you will pour the dex+ and imi.
+
+[bold]Procedure to make 8:[/bold]
+[bold]1.[/bold] Add 240u nutriment, 240u iron, 8u dexalin plus, and 8u imidazoline into a reagent jug.
+[bold]2.[/bold] Put the jug inside the ChemMaster and click "All reagents" to transfer the contents into the buffer.
+[bold]3.[/bold] Check the box next to all 8 empty pill bottles.
+[bold]4.[/bold] Set the name to "FNI+ | OD 4", bottle color to purple, pill color to purple, count to 4, then click the "Create Pills" button.
+[bold]5.[/bold] Repeat step 4 three more times in order to create 8 bottles of 16 pills. Dosage on each pill should be 7.5u carrot juice, 7.5u iron, 0.25u Dexalin+, 0.25u Imidozaline.
+[bold]6.[/bold] Click "Transfer" on all FNI+ pill bottles to transfer them into the smart fridge.
+
+[color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                             [head=2]HOW TO MAKE GC[/head]
+
+[bold]Preparation:[/bold]
+[bold]1.[/bold] Eject a bicaridine, kelotane, dylovene, inaprovaline, and dexalin bottle from the We-Ya-Chem Plus.
+[bold]2.[/bold] In a large beaker, dispense 40u carbon and 40u iron, then fill the rest with dexalin and set the beaker's transfer rate to 20u. This will be the "dex+ beaker" used for ADDING 10u dexalin plus to the GC tanks/
+[bold]4.[/bold] Get 3 high-capacity beakers and set one's transfer rate to 66u, another to 99u, and, 264u for a third.
+[bold]5.[/bold] Get empty reagent tanks and set them all to draw mode.
+
+[bold]Procedure for any number of tanks of GC:[/bold]
+[bold]1.[/bold] Fill the 264u with Bicaridine.
+[bold]2.[/bold] Using that beaker, pour it into a tank. Repeat for all tanks. 
+[bold]3.[/bold] Repeat steps 1-2. There should now be 264u bicaridine in each tank.
+[bold]4.[/bold] Fill your high-capacity beaker to the brim with kelotane.
+[bold]5.[/bold] Using that beaker, pour 264u kelotane into each tank. Same as Bic.
+[bold]6.[/bold] Repeat steps 4-5.
+[bold]7.[/bold] Fill up your 66u marked beaker with carbon, and give each tank 1 dosage.
+[bold]8.[/bold] Repeat, but with water to make Meralyne.
+[bold]9.[/bold] Dispense 66u phosphorus into that same 66u beaker.
+[bold]10.[/bold] Repeat, but with oxygen to make Dermaline.
+[bold]11.[/bold] Using your 99u marked beaker, fill it with Dylovene, and give each tank 1 dose.
+[bold]12.[/bold] Using that same beaker, fill it with Inaprovaline and give each tank a single dose.
+[bold]13.[/bold] Now there will be only 10u of spare space in the tank. Fill that with your large beaker of Dexalin+ you made earlier.
+[bold]14.[/bold] Set each container to dispense, and make sure they're labeled with their OD of 75u.
+
+
+[color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                             [head=2]HOW TO MAKE LUXURY PILLS[/head]
+
+[head=3][color=#ff0000]Do not use ADT to treat tricordrazine overdoses. It contains tricordrazine, so attempting to medicate a patient with ADT will result in the overdose worsening.[/color][/head]
+
+[color=#89F336][head=3]ADT (Advanced Anti-Toxin) Pill Bottles[/head][/color]
+[bold]Procedure to make 5:[/bold]
+[bold]1.[/bold] Dispense 30u phosphorus into a reagent jug, then fill the rest of the jug with 100u inaprovaline (2 doses of 50u) and 330 dylovene (11 of 30) from the We-Ya-Chem Plus.
+[bold]2.[/bold] Put the jug inside the ChemMaster and click "All reagents" to transfer the contents into the buffer.
+[bold]3.[/bold] Check the box next to ONLY 5 empty pill bottles.
+[bold]4.[/bold] Set the name to "ADT | OD 6", bottle color to green, pill color to green, count to 8, then click the "Create Pills" button.
+[bold]5.[/bold] Repeat step 4 one more times in order to create 5 bottles of 16 pills. Dosage on each pill should be 5u dylovene, 5u tricordrazine, 1.5u arithizine.
+[bold]6.[/bold] Click "Transfer" on all ADT pill bottles to transfer them into the smart fridge.
+
+[color=#7B7B7C][head=3]Ethylredoxrazine (Alcohol neutralizer) Pill Bottles[/head][/color]
+[bold]Procedure to make 3:[/bold]
+[bold]1.[/bold] Dispense 160u oxygen and 160u carbon into a reagent jug, then fill the rest of the jug with 160u dylovene (4 doses of 40u) from the We-Ya-Chem Plus.
+[bold]2.[/bold] Put the jug inside the ChemMaster and click "All reagents" to transfer the contents into the buffer.
+[bold]3.[/bold] Check the box next to ONLY 3 empty pill bottles.
+[bold]4.[/bold] Set the name to "Ethylredoxrazine | OD 3", bottle color to grey, pill color to grey, count to 16, then click the "Create Pills" button.
+[bold]5.[/bold] Click "Transfer" on all ethylredoxrazine pill bottles to transfer them into the smart fridge.
+
+[color=#073258]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+          [head=2]HOW TO MAKE HICOMB AND STICKY[/head]
+
+[head=3][color=#ff0000]Pouring in water first, and adding each reagent separately is key to not causing an explosive incident.[/color][/head]
+
+[color=#FF4019][head=3]Hicomb Tank[/head][/color]
+[bold]1.[/bold] Get an empty reagent tank, alongside two empty jugs set to transfer 240u.
+[bold]2.[/bold] Using one of the jugs, pour 240u of water, chlorine and fluorine into the tank, followed by 270u of fluorine.
+[bold]3.[/bold] You should now have 510u of CLF3 in the tank. Filter this out using a chemmaster and store 500u in one jug.
+[bold]4.[/bold] Grind 25 solid phoron into the other jug for 500u of liquid phoron. Pour this into the (empty) tank.
+[bold]5.[/bold] With the same jug, pour 240u of water, aluminium and sulfuric acid into the tank, followed by 240u of aluminium and sulfuric acid, then followed by 20u of aluminium and sulfuric acid. Do each reagent SEPERATELY.
+[bold]6.[/bold] You should now have 500u of napalm in the tank. Filter this out using a chemmaster and store 500u in one jug.
+[bold]7.[/bold] Pour the 500u of napalm into the (empty) tank, then add the 500u of CLF3.
+[bold]8.[/bold] And voila, 1000u of hicomb. Label the tank Hicomb - Do not drink, and send to requisitions.
+
+[color=#FFF7CC][head=3]Sticky Tank[/head][/color]
+[bold]1.[/bold] Get an empty reagent tank, alongside two empty jugs set to transfer 240u.
+[bold]2.[/bold] Grind 25 solid phoron into the jug for 500u of liquid phoron. Pour this into the (empty) tank.
+[bold]3.[/bold] With the same jug, pour 240u of water, aluminium and sulfuric acid into the tank, followed by 240u of aluminium and sulfuric acid, then followed by 20u of aluminium and sulfuric acid.
+[bold]4.[/bold] You should now have 500u of napalm in the tank. Filter this out using a chemmaster and pour it all back into the tank.
+[bold]5.[/bold] Using the reagent jug, add 500u of welding fuel. You can find welding tanks all around the Almayer.
+[bold]6.[/bold] And voila, 1000u of sticky. Label the tank Sticky - Not ice cream, and send to requisitions.

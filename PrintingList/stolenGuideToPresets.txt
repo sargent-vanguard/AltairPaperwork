@@ -1,0 +1,56 @@
+[head=1]Guide to Presets[/head]               [color=orchid][head=3][bold]By Dr. Eventide[/head][/bold][/color]
+
+[head=2][color=paleGreen]█████████████████████████████[/color][/head]
+
+Presets are a tool that ought to be taught to nurses before they even make a batch of pills. It will minimize mistakes and make them a faster chemist in general. 
+
+This guide aims to give a basic format for the 3 main pills medbay produces, and doubles as a labeling guide for medication.
+
+To start, you have to make some presets:
+1. Access the Chemmaster 3000
+2. Go to the presets tab in the top right
+3. Create 3 or more presets
+4. Press the pencil to edit a preset
+5. Press the lightning bolt, then a number to assign quickslots
+
+Although Standard Operating Procedures only requires medication to be labelled with it's contents and the OD threshold, this guide acknowledges other information and includes it in the label. Feel free to change it as you see fit.
+
+       [color=black][head=2]Primary Pills[/head][/color]
+       [color=limeGreen]███████████████████████████████████████[/color]
+
+            [color=black][monospace][bold]MeraBic | Brute Damage[/monospace][/bold][/color]
+            [color=crimson]█████████████████████████████████████[/color]
+              Bottle Color - Red
+              Pill Color - Red
+              Bottle Label - MB | 2 Pills OD
+              Extra label - 93.75 Brute
+
+           [color=black][monospace][bold]KeloDerma | Burn Damage[/monospace][/bold][/color]
+           [color=gold]█████████████████████████████████████[/color]
+              Bottle Color - Yellow
+              Pill Color - Yellow
+              Bottle Label - KD | 2 Pills OD
+              Extra label - 93.75 Burn
+
+           [color=black][monospace][bold]FNI+ | Blood Replenishment + Auxillary[/monospace][/bold][/color]
+           [color=orchid]█████████████████████████████████████[/color]
+              Bottle Color - Purple
+              Pill Color - Purple
+              Bottle Label - FNI+ | 4 Pills OD
+              Extra Label - 13.4% Blood | All Oxygen | Eyesight
+
+       [color=black][head=2]Secondary Pills[/head][/color]
+       [color=limeGreen]███████████████████████████████████████[/color]
+
+           [color=black][monospace][bold]ADT | Toxic Damage[/monospace][/bold][/color]
+           [color=SpringGreen]█████████████████████████████████████[/color]
+              Bottle Color - Green
+              Pill Color - Green
+              Bottle Label - ADT | 6 Pills OD
+              Extra Label - 100 Toxin | No Tric ODs
+
+           [color=black][monospace][bold]Epinephrine Refills[/monospace][/bold][/color]
+           [color=lawnGreen]█████████████████████████████████████[/color]
+              Bottle Color - Lime Green
+              Pill Color - Green
+              Bottle Label - Epi Refill | 0 Pills OD | Dissolve

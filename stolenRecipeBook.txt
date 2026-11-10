@@ -1,0 +1,134 @@
+[color=Purple][head=1]Chemistry Cheat Sheet
+Page 2/2[/head][/color]
+[bolditalic]authored by Zachary Randolf, Purple Edition,
+inspired by Dave 'Big Dave' Small[/bolditalic]
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                            [color=#C5601A][head=2]-How to make GC-[/head][/color]
+[bold]1[/bold]. [italic]Put 200u Bic, 200u Mera, 200u Kelo, 200u Derm, 200u Tric in a reagent tank[/italic]
+[bold]2.[/bold] [italic]Then take 10u out of the tank, and put 10u of Dex+ in.[/italic]
+
+This leaves a tank with 198u of the first five chems, and 10u Dex+, totalling 1000u. Some people mix GC with 196u of the first five, and 20u Dex+, totalling 1000u. Either works.
+
+[bolditalic]To speed up the process, you should make 3 tanks at the same time:[/bolditalic]
+[bold]1.[/bold] [italic]Fill up the beaker with 300u of one of the chems[/italic]
+[bold]2.[/bold] [italic]Put 100u in each tank[/italic]
+[bold]3.[/bold] [italic]Repeat again for 200u in each tank[/italic]
+[bold]4.[/bold] [italic]Repeat step 1-3 for all chemicals required except Dex+ (use 100 per tank of Dylo then 100 per tank of Inap to make 200 Tric in each tank)[/italic]
+[bold]5[/bold]. [italic]Set a side beaker to 10u, and take out 10u from each tank[/italic]
+[bold]6.[/bold] [italic]Put 30u dex+ in the high cap and put it in each tank (you don't need to change the transfer amount if the tanks are 990u full as you can only put in 10u)[/italic]
+
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                                          [head=2]-Pills-[/head]
+[italic]- Pills can be made in the ChemMaster, but you need to make sure the buffer is empty before you start, because everything in there will go into the pills equally.
+- There's 16 pills max in a bottle, so for example, if you want 20 units per pill, 20x16 = 320u needed in the buffer
+- Make sure you transfer the chems into the buffer, you can't make pills from *inside* a beaker.[/italic]
+
+[bold]Common Pills:[/bold] (for a single bottle)
+[bold][color=#cb0000]MB:[/color][/bold] (Brute pills) 120 Bic, 120 Mera - 15u dose x 16 pills 
+Final dosage per pill: 7.5 Bic and 7.5 Mera
+
+[bold][color=#f39f27]KD:[/color][/bold] (Burn pills) 120 Kelo, 120 Derma - 15u dose x 16 pills  
+Final dosage per pill: 7.34 Kelo and 7.5 Derma
+
+[bold][color=#c081ff]FN+:[/color][/bold] (Better blood regen pills) 117.5 Iron, 117.5 Nutriment, 5 Dex+ - 15u dose x 16 pills  
+Final dosage per pill: 7.34u Iron and 7.34u Nutri and 0.31u Dex+
+
+[bold][color=#1b67a5]Fe+:[/color][/bold] (Blood regen pills) 235 Iron, 5 Dex+ - 15u dose x 16 pills  
+Final dosage per pill: 14.69u Iron and 0.31u Dex+
+
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                           [head=2]-Batch making pills-[/head]
+[bold]How to use the ChemMaster 3000[/bold]
+The ChemMaster has an internal buffer to store 500u of fluid, and you can use it to separate chemicals. You can click the numbers next to each chemical to transfer that exact amount into or out of the buffer.
+
+The top part of the display shows any loaded pill bottles, the mid section shows a loaded beaker and the buffer contents, and the lower portion is for pill decoration, pill count, and actually forming the pills.
+
+There's a button above the buffer that says "To beaker" or "To disposal", this determines whether fluid [bold]leaving[/bold] the buffer will go into your beaker, or be deleted. Fluid leaving your beaker will never be directly deleted.
+
+When you are ready to create pills, the "Create Pills" button at the bottom will equally distribute all the fluid in the buffer into all selected bottles, and make the number of pills per bottle that you typed at the bottom. For example, if you have 150u of fluid, 3 bottles selected, and 10 pills per bottle, then you will make 30 pills of 5u each. However, you usually have 480u of fluid, 2 bottles, and 16 pills per bottle, which makes 15u pills.
+
+[italic]- Nearly all pills should use 2 bottles selected, and 16 pills per bottle
+- Fe+ has a [bold]more detailed guide for the process of making pills[/bold], if you forget any steps, you might want to [bold]try this one first[/bold], even though it's rarely used in the field
+- Remember that you can [bold]press C[/bold] to transfer from your current hand to your off-hand. This can be used to transfer Bic quickly for MB (while also spam refilling your bottle), or to transfer Dex+ for FN+[/italic]
+
+[bold]How to prepare your Pill Bottles in the ChemMaster 3000[/bold]
+Important to know:
+- The ChemMaster can store a maximum of 8 pill bottles
+- When you edit the chosen label or bottle colour, all *selected* bottles have the change applied
+- Note: 8 bottles is considered a "batch", you can do as many bottles as needed but a batch is considered fastest, especially when pills are in high demand
+
+Process:
+[italic]1. Using Pill Bottle Boxes, put 8 Pill Bottles into the ChemMaster [bold](This can now be done by holding a box and inserting the whole thing at once into the machine)[/bold]
+2. Select all 8 bottles' checkboxes
+3. Set the label to what you want
+4. Set the colour to what you want
+5. Deselect the bottom 6 bottles, leaving the first two selected[/italic]
+
+[bold]2 Bottles of [color=#cb0000]MB[/color][/bold] - 240 Mera and 240 Bic[italic]
+1. Prepare your Pill Bottles (see above, use label [bold]MB [2 OD][/bold] and red colour)
+2. Put your bucket into the chemical dispenser
+3. Add 80u Carbon, 80u Water
+4. Eject your bucket from the chemical dispenser
+5. Add 320 Bicaridine to the bucket
+  a) Pick up a Bicaridine Bottle set to 40u transfer amount while still holding the bucket
+  b) With the bottle in your main hand, press C
+  c) Refill your bottle
+  d) Repeat steps b and c 8 times (or until the bucket says 480/500u)
+  e) If your bucket has 500u, you can delete the excess 20u of Bicaridine in the ChemMaster 3000 by transferring 20 Bicaridine to the buffer, setting it to "To Disposal" instead of "To Beaker", and clicking "10" next to Bicaridine twice to delete 20.
+6. Put your bucket into the ChemMaster 3000
+7. Press "All Reagents" to transfer everything from the bucket to the buffer
+8. Select two pill bottles' checkboxes, press "Create Pills"
+9. The two selected bottles will now say (16/16) pills which means they are full, hit the Transfer button next to BOTH of them, and they will be moved to the Smart Fridge for storage[/italic]
+
+[bold]2 Bottles of [color=#f39f27]KD[/color][/bold] - 240 Kelo and 240 Derm[italic]
+1. Prepare your Pill Bottles (see above, use label [bold]KD [2 OD][/bold] and yellow colour)
+2. Put your bucket into the chemical dispenser
+3. Add 80u Phosphorus, 80u Oxygen
+4. Eject your bucket from the chemical dispenser
+5. Add 320 Kelotane to the bucket
+  a) Pick up a Kelotane Bottle set to 40u transfer amount while still holding the bucket
+  b) With the bottle in your main hand, press C
+  c) Refill your bottle
+  d) Repeat steps b and c 8 times (or until the bucket says 480/500u)
+  e) If your bucket has 500u, you can delete the excess 20u of Kelotane in the ChemMaster 3000 by transferring 20 Kelotane to the buffer, setting it to "To Disposal" instead of "To Beaker", and clicking "10" next to Kelotane twice to delete 20.
+6. Put your bucket into the ChemMaster 3000
+7. Press "All Reagents" to transfer everything from the bucket to the buffer
+8. Select two pill bottles' checkboxes, press "Create Pills"
+9. The two selected bottles will now say (16/16) pills which means they are full, hit the Transfer button next to BOTH of them, and they will be moved to the Smart Fridge for storage[/italic]
+
+[bold]2 Bottles of [color=#1b67a5]FN+[/color][/bold][italic]
+1. Prepare your Pill Bottles (see above, use label [bold]FN+ [4 OD][/bold] and dark blue colour)
+2. Add 235 Iron to your bucket
+    a) If using a reagent tank full of Iron, set your bucket to 47u transfer amount and dispense 5 times to get 235 from your tank
+    b) If using Iron directly from a chemical dispenser, add 240 (+40 six times), and delete 5u
+3. Add 235u Nutriment (see 2a to get it from a tank)
+    - You get Nutriment from putting Prepared Meals (from a food vendor) into an All-In-One Grinder and grinding
+4. Add 10u Dex+
+7. Put your bucket into the ChemMaster 3000
+8. Press "All Reagents" to transfer everything from the bucket to the buffer
+9. Select two pill bottles' checkboxes, press "Create Pills"
+10. The two selected bottles will now say (16/16) pills which means they are full, hit the Transfer button next to BOTH of them, and they will be moved to the Smart Fridge for storage
+[/italic]
+
+[bold]2 Bottles of [color=#c081ff]Fe+[/color][/bold] - 470 Iron + 10 Dex+ - Total in buffer 480
+[bold]Only make Fe+ when you don't have Nutriment for FN+.[/bold]
+[italic]1. Prepare your Pill Bottles (see above, use label [bold]Fe+ [3 OD][/bold] and purple colour)
+2. Put your janitor's bucket (bucket) into the chemical dispenser
+3. Set the dispenser to the +40 mode
+4. Add 500u of Iron (click Iron 13 times)
+5. Remove 30u of Iron (click the -30 button once)
+6. Eject the bucket
+7. Put 10u of Dex+ into the can (to fill it to 480u)
+8. Put the bucket into the ChemMaster 3000
+9. Transfer "All Reagents"
+10. Select the first two bottles
+9. Transfer all the Iron and Dex+ into the buffer
+10. Switch to the output tab
+11. Set the bottle colour to Blue
+12. Double check Count being 16 and Dose 15u, and buffer 480u
+13. Create the pills (next to dosage)
+14. Eject the bottle (at the top)[/italic]
+
+[bolditalic]Ps. save this as a text file using a pen so you can print it at a fax machine tomorrow.
+PurpleEdZachChemP2.txt
+10 KB

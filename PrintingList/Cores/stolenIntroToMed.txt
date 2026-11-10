@@ -1,0 +1,121 @@
+
+[color=Purple][head=1]Chemistry Cheat Sheet
+Page 1/2[/head][/color]
+[bolditalic]authored by Zachary Randolf, Purple Edition,
+inspired by Dave 'Big Dave' Small[/bolditalic]
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                    [head=2]- Introduction to Wounds -[/head]
+Untreated wounds show with [bold]curly braces {10}[/bold] around a damage amount on the Health Analyzer, and they can't heal on their own.
+
+When a [bold]Brute wound[/bold] is treated with either Gauze, a Trauma Kit, or Surgical Line, the braces will disappear. When a [bold]Burn wound[/bold] is treated with either Ointment, a Burn Kit, or Synth Graft, the braces will disappear. [bold]Toxin and Oxygen injuries[/bold] can not be "treated", they must be healed naturally or with targeted medicine.
+
+Treated wounds will slowly heal on their own, medicine is used to speed up the natural recovery process of injured marines. See the next section to learn when to administer medicine, and how much.
+
+Note that untreated wounds will still be healed by medicine, but treating wounds before administering medicine is recommended. [bold]Always stop bleeding (shows in Red on the analyzer) by treating a brute wound before treating a patient for anything else, as this will not heal on it's own, and will worsen with time.[/bold]
+
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                  [head=2]- Introduction to Medicines -[/head]
+Medicines come in the forms of pill packets, pill bottles, and liquids. Liquids are the fastest way to administer medicine as [bold]Hyposprays[/bold] or [bold]Autoinjectors[/bold] (from either a vendor, or a Pressurized Reagent Pouch) inject [bold]into the bloodstream, and start healing immediately.[/bold]
+
+[bold]Always inject medicine as shown above when given the option. Oral medicine such as pills or drinking from beakers is slow, requires you and your patient to stand still, and has a delay[/bold] before the patient's body starts processing it.
+
+- [italic]Medicines are usually [bold]colour coded[/bold] by what damage type they heal
+- When a patient has the [bold]overdose (OD)[/bold] amount or more in their bloodstream, they take damage of a different type, usually accumulating Toxin damage.
+- Italicized medicines are most important / useful / strong
+
+- [bold]"Basic"[/bold] means we have a nearly infinite supply but it's weaker:
+  > heals 0.5 damage/second (except Dylovene: 1/s)
+- [bold]"Advanced"[/bold] means we create it in the chemistry lab
+  > heals 0.75/s (except Arithrazine: 0.5/s)
+
+- If you give a patient both the Basic and Advanced medicines of the same type, they work together
+  > heals 1.25/s[/italic] (except Toxin type: 1.5/s)
+
+[color=#cb0000][head=3]Brute Healing:[/head][/color]
+[bold]Bicaridine:[/bold] Basic: OD 30u
+[bolditalic]Meralyne:[/bolditalic] Advanced: OD 15u
+
+[color=#f39f27][head=3]Burn Healing:[/head][/color]
+[bold]Kelotane:[/bold] Basic: OD 30u
+[bolditalic]Dermaline:[/bolditalic] Advanced: OD 15u
+
+[color=#9fed58][head=3]Toxin Healing:[/head][/color]
+[bolditalic]Dylovene:[/bolditalic] Basic but strongest toxin medicine: OD 30u
+[bold]Arithrazine:[/bold] Advanced but weaker toxin medicine: OD 15u
+
+[color=#1b67a5][head=3]Oxygen / Blood loss Healing:[/head][/color]
+[bold]Dexalin:[/bold] Don't use this unless you don't have Dexalin Plus (Dex+)
+[bolditalic]Dex+:[/bolditalic] Heals ALL Oxygen damage instantly with only 0.2u: OD 15u
+[bolditalic]Iron:[/bolditalic] Regens blood: OD 30u
+[bolditalic]Nutriment:[/bolditalic] Ground up food, regens blood: Does not OD
+
+[color=#c96dbf][head=3]Other:[/head][/color]
+[bold]Inaprovaline:[/bold] Actually useless, don't use it. If it mixes with Dylo in your blood it can cause a Tric OD easily: OD 60u
+[bolditalic]Epinephrine:[/bolditalic] Causes defib to heal 20 extra Brute, Burn, and Toxin on charge: OD 10.5u
+[bold]Ethylredoxrazine:[/bold] Removes drunkness once ethanol is gone from blood: OD 30u
+[bolditalic]Imidazoline:[/bolditalic] Treats eye damage, 1u is enough: OD 30u
+[bold]Tricordrazine:[/bold] Heals Brute, Burn and Toxin at 0.25/s: OD 30u
+
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                  [head=2]- Introduction to Chemistry -[/head]
+[head=3]1. Basic chemicals:[/head]
+    Bic, Dylo, Dex, Inap, and Kelo. Get these from bottles in the We-Ya Med Plus. They all come in bottles of [bold]60u[/bold], and you can [bold]refill your bottle[/bold] by clicking on the We-Ya Med Plus with the bottle in your hand. You should always refill bottles before leaving them on the floor or tables so you can find them easier later.
+
+[head=3]2. Using reagent tanks & beakers[/head]
+    a) Reagent tanks store 1000u. Tanks have two modes, you can change between them via the right-click menu, or by alt+clicking the tank:
+
+[bold]Drawing:[/bold] Drawing means that fluid will ENTER the tank from a beaker in your hand.
+
+[bold]Dispensing:[/bold] Dispensing means that fluid will LEAVE the tank into a beaker in your hand.
+
+    b) Transferring chemicals between tanks and beakers is as easy as clicking, once you have the tank set to either drawing or dispensing.
+
+    c) Beakers have a "transfer amount" that determines how much fluid moves each time you click with the beaker
+
+    d) Every time you transfer chemicals (except in the ChemMaster 3000, which can separate different chemicals), mixed chemicals will transfer [bold]equally by volume[/bold].
+
+For example, let's say that your tank has 30u Bic and 10u Kelo. If you dispense 20u into a beaker, you will get 20u of fluid containing 15u Bic and 5u Kelo.
+
+[head=3]3. Making advanced chemicals:[/head]
+    Meralyne, Dermaline, Dex+: These recipes use a [bold]1:1:1->3u recipe[/bold], this format means that you need 1 of each ingredient and you get 3 output, ex: 
+[italic]100u Bic + 100u Carbon + 100u Water = 300u Meralyne[/italic]
+    Because of the fact that you have to make these chemicals in multiples of 3u, and GC requires steps of 200u, you have to mix your Meralyne and Dermaline outside of your tank (or in the tank, and take it out, then redistribute) and discard excess, so that you can mix proper ratios.
+    
+    Some recipes use a [bold]1:1:1->2u recipe[/bold], such as Imidazoline, Epi, and Ethyl. Because of this, if you for example want 480u of Epi, you'll have to mix it in a tank because you need 480*3/2=720u of ingredients (reagents) which couldn't fit in just one canister.
+
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+              [head=2]- Always have a full tank of these -[/head]
+[italic]- Mix these in a reagent tank. 300u of each ingredient into a reagent tank so you should get 900u total of output
+- For example, to make 900u Meralyne:
+  > 5 full bottles of Bic (300u)
+  > 1 full high-capacity beaker of Carbon (300u)
+  > 1 full high-capacity beaker of Water (300u)[/italic]
+- [bold]Always set your reagent tanks to dispensing[/bold] before leaving the chemistry lab
+
+[bold][color=#cb0000]Meralyne[/bold][/color]: 1:1:1 -> 3u
+Carbon, Water, Bic
+
+[bold][color=#f39f27]Dermaline[/bold][/color]: 1:1:1 -> 3u
+Oxygen, Phosphorus, Kelo
+
+                   [head=2]- Make these as you need -[/head]
+[bold][color=#1b67a5]Dex+[/bold][/color]: 1:1:1 -> 3u
+Dexalin, Carbon, Iron
+[italic]- Recommended to make in batches of 120u with a large beaker[/italic]
+
+[bold][color=#b18644]Tricordrazine[/color][/bold]: 1:1 -> 2u
+Inap, Dylo
+
+[bold][color=#6dc82f]Epinephrine[/color][/bold]: 1:1:1 -> 2u
+Carbon, Nitrogen, Oxygen
+
+[bold][color=##37731c]Arithrazine[/color][/bold]: 1:1 -> 2u
+Phosphorus, Dylo
+
+[bold][color=#b88ea3]Imidazoline[/color][/bold]: 1:1:1 -> 2u
+Carbon, Hydrogen, Dylo
+
+[bold][color=#584434]Ethylroxadine[/color][/bold]: 1:1:1 -> 3u
+Carbon, Oxygen, Dylo
+
+[bolditalic]Ps. save this as a text file using a pen so you can print it at a fax machine tomorrow.

@@ -1,0 +1,28 @@
+[color=Blue][center][head=1][bold]SSD Log[/bold][/head][/color]
+[color=Green][center]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/center][/color]
+[bold][head=2]Patient Information[/head][/bold]
+
+- [bold]{REQUIRED}[/bold] Patient Name: 
+
+- Patient Role: 
+
+- Patient Squad: 
+
+- Patient Rank: 
+
+- [bold]{REQUIRED}[/bold] Logged At: 
+
+- [bold]{REQUIRED}[/bold] Cryo?(Y/N): 
+
+[color=Grey][italic]A patient should be returned to cryogenic storage within 5-10 minutes of intake/reception if they occupy a vital role such as Hospital Medic (Field Medic), Smart Gun Operator, Intelligence Officer or any Command role.[/italic][/color]
+
+- Additional Notes: 
+
+[color=Cyan][center]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/center]
+[bold][head=2]Clinician Information[/head][/bold][/color]
+
+- [bold]{REQUIRED}[/bold] Clinician Name: 
+
+- Clinician Rank (Chief Medical Officer / Doctor / Nurse / Other): 
+
+- Additional Clinician Notes: 

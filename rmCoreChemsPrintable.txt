@@ -1,0 +1,57 @@
+[Head=1][bold]Key:[/bold][/head]
+J = In Jug/Beaker
+C = In Chem Master
+J--> Mix In Jug/Beaker
+C--> Mix In Chem Master
+-->J Insert Into Jug/Beaker
+-->C Insert Into Chem Master
+
+
+
+[head=1][bold]MeraBic - Jug [/bold][/head]
+
+50j Oxy + 50j Carbon -->C
+50j Sugar + 50c Oxy + 50c Carbon J-->C 150 Inap
+150j Carbon + 150c Inap C-->C 300u Bic
+80j Carbon + 80j Water + 80c Bic J-->C 240 Mera
+Set the Buffer to dispense to Disposals and remove 20u(10x2) of Mera
+Select 2 Pill Containers.
+Select Desired MB Preset.
+Make 16 Pills.
+
+[head=1][bold] DermaKelo - Jug [/bold] [/head]
+
+160j Carbon + 160j Silicon J-->C 320 Kelo
+80j Oxy + 80j Phosphorus + 80c Kelo J-->C 240 Derma
+Select 2 Pill Containers.
+Select Desired KD Preset.
+Make 16 Pills.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hi :D

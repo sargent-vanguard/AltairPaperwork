@@ -1,0 +1,31 @@
+[color=Purple][head=1]How to Make Blood Bag GC[/head][/color]
+[bolditalic]By Joachim Phillips[/bolditalic]
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Requirements,
+- x1 Empty Flask or any reagent container of choice
+- Access to a We-Ya-Med Plus
+- Access to an Avant Blood Dispenser
+- Access to the [bold][color=#b40000]Meralyne[/color][/bold] and [bold][color=#FFD580]Dermaline[/color][/bold] tanks in Medbay Reception
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Obtain the following items,
+- x1 bottle of [bold][color=#ed4847]Bicaridine[/color][/bold]
+- x1 bottle of [bold][color=#f5e123]Kelotane[/color][/bold]
+- x1 [bold][color=#d87f2b]Tricodzine[/color][/bold] vial
+- x1 syringe
+- x1 empty Blood Bag
+
+Using the syringe, transfer the following amounts into the blood bag. Each transfer should be 15u:
+- x2 times from the [bold][color=#d87f2b]Tricodzine[/color][/bold] vial
+- refill the [bold][color=#d87f2b]Tricodzine[/color][/bold] vial using the We-Ya-Med Plus
+- x2 times from the [bold][color=#d87f2b]Tricodzine[/color][/bold] vial
+- x4 times from the [bold][color=#ed4847]Bicaridine[/color][/bold] bottle
+- x4 times from the [bold][color=#f5e123]Kelotane[/color][/bold] bottle
+
+Next, go to Medbay Reception. Use the empty flask or another reagent container to draw chemicals from the tanks:
+- draw 60u of [bold][color=#b40000]Meralyne[/color][/bold] into the container
+- use the syringe to transfer the [bold][color=#b40000]Meralyne[/color][/bold] from the container into the blood bag
+- draw 60u of [bold][color=#FFD580]Dermaline[/color][/bold] into the container
+- use the syringe to transfer the [bold][color=#FFD580]Dermaline[/color][/bold] from the container into the blood bag
+
+[color=Purple]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Your blood bag should now contain 300u of GC. If you normally use a basic medical pouch to carry medical supplies, consider using a first responder’s pouch instead. It can be obtained from the surplus gear vendor in the prep room and can hold the blood bag and syringe, with room for two rolls of gauze or ointment.

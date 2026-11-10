@@ -1,0 +1,129 @@
+[color=Blue][bold]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][/bold]
+[color=Blue][head=1][bold]Altair Jenkins' Bulk Pills Recipe Book! [/bold][/head][/color]
+[color=Purple][head=3][italic]And also a guide to Presets! (At the bottom) [/italic][/head][/color]
+Note: Currently this guide only contains information regarding MB and KD pill bottles. Other mixes like FNI and Ethyl will come later!
+
+[color=Red][bold]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][/bold]
+[color=Red][head=2][bold]MeraBic (MB)[/bold][/head][/color]
+
+[bold]1.[/bold] Grab a jug
+and  a bicardine bottle from the We-Ya(TM) Chem Plus Dispenser(TM)
+
+[bold]2.[/bold] Place the jug on the ground and dump 6 full bic bottles into the jug (Put the bicardine bottle back into the We-Ya(TM) Chem Plus Dispenser(TM) to fully refill it!)
+
+[bold]3.[/bold] Put the jug into the chem master and put 40u(10x4) bic into the chem master's buffer, set it to dispense to disposals and dispose of all the reagents in the chem master
+
+[bold]4.[/bold] Take the jug with the remaining 320u of bic and put it in the Chem Dispenser. Dispense 80u Carbon and 80u Water into the jug, now you have your MeraBic Mix!
+
+[bold]5.[/bold] Now, put the jug back into the Chem Master and put all the reagents into the buffer.
+
+[bold]6.[/bold] Select two pill bottles,  select your desired MB Preset (or check below the KeloDerma recipe on how to make your own preset if you dont have one yet) and make 16 pills.
+
+
+
+[color=Orange][bold]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][/bold]
+[color=Orange][head=2][bold]KeloDerma (KD)[/bold][/head][/color]
+
+[bold]1.[/bold] Grab a jug
+and a kelotane bottle from the We-Ya(TM) Chem Plus Dispenser(TM)
+
+[bold]2.[/bold] Place the jug on the ground and dump 6 full Kelo bottles into the jug (Put the bicardine bottle back into the We-Ya(TM) Chem Plus Dispenser(TM) to fully refill it!)
+
+[bold]3.[/bold] Put the jug into the chem master and put 40u(10x4) kelo into the chem master's buffer, set it to dispense to disposals and dispose of all the reagents in the chem master
+
+[bold]4.[/bold] Take the jug with the remaining 320u of kelo and put it in the Chem Dispenser. Dispense 80u Oxygen and 80u Phosphorus into the jug, now you have your KeloDerma Mix!
+
+[bold]5.[/bold] Now, put the jug back into the Chem Master and put all the reagents into the buffer.
+
+[bold]6.[/bold] Select two pill bottles,  select your desired KD Preset (or check below on how to make your own preset if you dont have one yet) and make 16 pills.
+
+
+[color=#7c5f69][bold]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][/bold]
+Note: The following was taken from "The Jemison Solution Part 2 -- 13/08/2126". Some minor edits were performed here and there, but all credit goes to them!
+
+[color=#7c5f69][head=2]FNI+ Pill Bottles[/head][/color]
+[bold]Preparation[/bold]
+[bold]1.[/bold] Unwrench a food vendor from the medical conference room and drag it outside chemistry. Unwrench and drag an All-In-One Grinder next to the food vendor, insert a reagent jug into the grinder, and set the auto-mode to grind.
+[bold]2.[/bold] Dispense protein bars and prepared meals from the food vendor, and grind it into nutriment.
+[bold]3.[/bold] In a reagent jug, dispense 40u dexalin from the We-Ya-Chem Plus, then 40u carbon and 40u iron to make 120u of dexalin plus.
+[bold]4.[/bold] In the same reagent jug, dispense 60u dylovene from the We-Ya-Chem Plus, then 60u carbon and 60u hydrogen to make 120u of imidazoline.
+[bold]5.[/bold] Set that jug's transfer amount to 16u. This is how you will pour the dex+ and imi.
+
+[bold]Procedure to make 2:[/bold]
+[bold]1.[/bold] Add 240u nutriment, 240u iron, 8u dexalin plus, and 8u imidazoline into a reagent jug.
+[bold]2.[/bold] Put the jug inside the ChemMaster and click "All reagents" to transfer the contents into the buffer.
+[bold]3.[/bold] Check the box next to 2 empty pill bottles.
+[bold]4.[/bold] Set the name to "FNI+ | OD 4", bottle color to purple, pill color to purple, count to 16, then click the "Create Pills" button. 
+[bold]5.[/bold] Click "Transfer" on the filled FNI+ pill bottles to transfer them into the smart fridge.
+
+Dosage on each pill should be 7.5u nutriment, 7.5u iron, 0.25u Dexalin+, 0.25u Imidozaline.
+
+
+
+
+
+[color=Blue][bold]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][/bold]
+[color=Blue][head=1][bold]Altair Jenkins' Guide To Presets! [/bold][/head][/color]
+[bolditalic]:D [/bolditalic]
+
+[color=Purple][bold]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/bold][/color]
+[color=Purple][head=3][italic]Explanation
+[/italic][/head][/color]
+Presets allow you to quickly label and set the appropriate colors of pill bottles. The label should communicate what the chemical is and what its OverDose (OD) is.
+
+For basic chemicals like Bicaridine and Kelotane, the OD is typically 30u. However for advanced chemicals like Meralyne and Derma, their OD is commonly 15u.
+When making pill bottles, you mix basic and advanced chems and in turn their OD levels, meaning in reality your OD for pill bottles will usually be 15u.
+
+You should have, at the minumum, two presets made: MB and KD.
+MB should have its pill bottle and its pill be Red.
+KD should have its pill bottle and its pill be Yellow.
+Each should have a label of either MB or KD, and what its OD is in terms of pills ("2 pill OD" or "2 OD", so long as the OD is communicated the exact wording is up to you).
+
+[color=Red][bold]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][/bold]
+[color=Red][head=1][bold]MeraBic Preset [/bold][/head][/color]
+
+1. Open the ChemMaster 3000 and click Presets on the top right corner
+
+2. Click "Create New Presets" at the bottom of the Presets window
+
+3. Type in MeraBic for the Preset Name
+
+4. Set the pill bottle color to Red by clicking on the pill bottle icon
+
+5. Type in "MB | Brute | 2 pill OD" for the Pill Bottle Label
+
+6. (Optional) Set the pill color to Red
+
+7. Click "Save" at the bottom to save the preset
+
+Now, whenever your making MB, check off the box next to the bottles your filling, press Presets in the top right and click your MB Preset.
+
+
+[color=Orange][bold]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][/bold]
+[color=Orange][head=1][bold]KeloDerma Preset [/bold][/head][/color]
+
+1. Open the ChemMaster 3000 and click Presets on the top right corner
+
+2. Click "Create New Presets" at the bottom of the Presets window
+
+3. Type in KeloDerma for the Preset Name
+
+4. Set the pill bottle color to Yellow by clicking on the pill bottle icon
+
+5. Type in "KD | Burn | 2 pill OD" for the Pill Bottle Label
+
+6. (Optional) Set the pill color to Yellow
+
+7. Click "Save" at the bottom to save the preset
+
+Now, whenever your making KD, check off the box next to the bottles your filling, press Presets in the top right and click your MB Preset.
+
+
+
+
+
+
+
+
+[color=Yellow][italic]hi again :D [/italic][/color]
+Fun fact: sugar, phosphorus and potassium when mixed in equal amounts produce a smoke cloud. Chemicals present in the mix before the reaction occurs also permeate the smoke cloud, do with this what you will.

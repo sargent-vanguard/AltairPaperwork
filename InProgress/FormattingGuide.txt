@@ -1,0 +1,44 @@
+Formatting Guide:
+
+* Bullet
+[bullet]Text[/bullet]
+or
+- Text
+
+Makes the line a bullet point
+
+
+* Center
+[center]Text[/center]
+
+Aligns the text to the center
+
+
+* Monospace
+[mono]Text[/mono]
+
+Causes the text to be aligned with Newspaper spacing, ensures the line is filled bound to bound
+
+
+* Signature
+[sign]
+
+Creates a signature line(?)
+
+
+* Time
+[time]
+
+Automatically fills with the current shift time
+
+
+* Date
+[date]
+
+Automatically fills with the current shift date
+
+
+* Input Field (May not work on every fork)
+[field]
+
+Creates an interactive input field
